@@ -1,3 +1,8 @@
-groq
-huggingface
-langchain=1.0.0
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+streamlit
+beautifulsoup4
+requests
