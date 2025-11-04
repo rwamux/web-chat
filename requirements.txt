@@ -6,3 +6,4 @@ langchain-groq
 streamlit
 beautifulsoup4
 requests
+sentence-transformers
