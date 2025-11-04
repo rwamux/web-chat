@@ -1,8 +1,0 @@
-langchain
-langchain-community
-langchain-core
-langchain-huggingface
-langchain-groq
-streamlit
-beautifulsoup4
-requests
